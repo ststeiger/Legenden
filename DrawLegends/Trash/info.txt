@@ -1,0 +1,96 @@
+﻿
+https://www4.cor-asp.ch/corfmsuite
+http://localhost:10002/ajax/vws/PDF.ashx?name=meow&path=https://www4.cor-asp.ch/ApWebServices/ApDrawingImages.aspx?p=REM_Demo_Portal$amp$d=0001_GB01_OG10_0000$amp$xlr=237,611404$amp$ylr=167,27205394360902$amp$yul=132,958399056391$amp$xul=191,974243$amp$dx=480$amp$dy=360$amp$L=RaumNutzung$amp$S=Nutzungsart$amp$SEL=0000000002FT000337$amp$F=PNG$amp$uu=2
+
+
+
+https://www4.cor-asp.ch/cor_basic_DEV/Objectmanagement/Index.aspx?proc=200CEB26807D6BF99FD6F4F0D1CA54D4&regID=100
+
+
+/////https://www4.cor-asp.ch/cor_basic_DEV/ajax/vws/PDF.ashx
+https://www4.cor-asp.ch/corfmsuite/ajax/vws/PDF.ashx
+
+
+
+
+
+https://www4.cor-asp.ch/corfmsuite/ajax/vws/PDF.ashx?name=meow&path=https://www4.cor-asp.ch/ApWebServices/ApDrawingImages.aspx?p=REM_Demo_Portal$amp$d=0001_GB01_OG10_0000$amp$xlr=237,611404$amp$ylr=167,27205394360902$amp$yul=132,958399056391$amp$xul=191,974243$amp$dx=480$amp$dy=360$amp$L=RaumNutzung$amp$S=Nutzungsart$amp$SEL=0000000002FT000337$amp$F=PNG$amp$uu=2
+
+
+https://www4.cor-asp.ch/ApWebServices/ApDrawingImages.aspx?p=REM_Demo_Portal&d=0001_GB02_EG00_0000&xlr=67.271599&ylr=38.65476930827067&yul=-54.18187730827067&xul=-56.20114099999999&dx=1152&dy=864&L=RaumNutzung&S=Nutzungsart&SEL=0000000002GC000AXI&F=PNG&uu=2
+
+["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"]
+
+
+
+
+=========================================================================================
+=========================================================================================
+=========================================================================================
+
+
+http://www.c-sharpcorner.com/uploadfile/mahesh/hatch-brushes-in-gdi/
+http://www.java2s.com/Code/CSharp/2D-Graphics/HatchBrushStyles.htm
+
+
+
+
+http://msdn.microsoft.com/en-us/library/7eec8a36(v=vs.110).aspx
+
+
+
+
+
+
+
+
+HatchBrush hBrush = new HatchBrush(
+   HatchStyle.Horizontal,
+   Color.Red,
+   Color.FromArgb(255, 128, 255, 255));
+e.Graphics.FillEllipse(hBrush, 0, 0, 100, 60);
+
+
+
+
+http://social.msdn.microsoft.com/Forums/windows/en-US/48e640c2-62e5-4acc-8eeb-fffd9c23b657/hatch-brush-using-c?forum=winforms
+using (HatchBrush brush = new HatchBrush(HatchStyle.Horizontal, FORECOLOR, Color.Transparent))
+{
+
+    g.FillEllipse(brush, new Rectangle(Point.Empty, new Size(WIDTH, HEIGHT)));
+
+}
+
+
+
+
+http://www.java2s.com/Code/CSharp/2D-Graphics/HatchBrushStyleWideUpwardDiagonal.htm
+private void Form1_Paint(object sender, System.Windows.Forms.PaintEventArgs e)
+{      
+    Graphics g = e.Graphics;
+    g.FillRectangle(Brushes.White, this.ClientRectangle);
+    HatchBrush hb = new HatchBrush(
+        HatchStyle.WideUpwardDiagonal,
+        Color.White,
+        Color.Black);
+    Pen hp = new Pen(hb, 20);
+    g.DrawRectangle(hp, 15, 15, 200, 200);
+    hb.Dispose();
+    hp.Dispose();
+}
+
+
+
+
+http://www.java2s.com/Code/CSharp/2D-Graphics/HatchBrushHatchStyleZigZag.htm
+private void Form1_Paint(object sender, System.Windows.Forms.PaintEventArgs e)
+{
+        Graphics g = e.Graphics;
+        HatchBrush hb = new HatchBrush(HatchStyle.ZigZag,Color.AntiqueWhite ,Color.Black);
+        g.FillEllipse(hb,30, 30, Width-50, 30);
+}
+
+
+http://social.msdn.microsoft.com/Forums/windows/en-US/48e640c2-62e5-4acc-8eeb-fffd9c23b657/hatch-brush-using-c?forum=winforms
+
+

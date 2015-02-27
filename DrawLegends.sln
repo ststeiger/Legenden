@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawLegends", "DrawLegends\DrawLegends.csproj", "{245482EC-0E8F-4DD7-B06F-662A4D8F58C9}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DrawLegendsVB", "DrawLegendsVB\DrawLegendsVB.vbproj", "{7BFAC969-2F59-4422-89DA-1FFB714229B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{245482EC-0E8F-4DD7-B06F-662A4D8F58C9}.Debug|x86.ActiveCfg = Debug|x86
+		{245482EC-0E8F-4DD7-B06F-662A4D8F58C9}.Debug|x86.Build.0 = Debug|x86
+		{245482EC-0E8F-4DD7-B06F-662A4D8F58C9}.Release|x86.ActiveCfg = Release|x86
+		{245482EC-0E8F-4DD7-B06F-662A4D8F58C9}.Release|x86.Build.0 = Release|x86
+		{7BFAC969-2F59-4422-89DA-1FFB714229B6}.Debug|x86.ActiveCfg = Debug|x86
+		{7BFAC969-2F59-4422-89DA-1FFB714229B6}.Debug|x86.Build.0 = Debug|x86
+		{7BFAC969-2F59-4422-89DA-1FFB714229B6}.Release|x86.ActiveCfg = Release|x86
+		{7BFAC969-2F59-4422-89DA-1FFB714229B6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
