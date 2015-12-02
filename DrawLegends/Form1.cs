@@ -196,7 +196,7 @@ namespace DrawLegends
                     //mystyle = HatchStyle.DarkUpwardDiagonal;
 
                     string strHatchStyle = mystyle.ToString();
-                    strHatchStyle = i.ToString();
+                    
 
                     //mystyle = HatchStyle.Cross | HatchStyle.DarkHorizontal;
 
@@ -221,7 +221,7 @@ namespace DrawLegends
                         using (System.Drawing.SolidBrush sb = new SolidBrush(System.Drawing.Color.HotPink))
                         {
                             g.DrawString(strHatchStyle, fnt, sb, new PointF(myrect.X, myrect.Y + iSize));
-                            g.DrawString(strHatchStyle, fnt, sb, new PointF(myrect.X, myrect.Y + iSize));
+                            g.DrawString(i.ToString(), fnt, sb, new PointF(myrect.X, myrect.Y + iSize + 12));
                         }
                     }
                 } // Next i
